@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/github/languages/top/muhammadhussain-2009/Stock-Price-Prediction-Using-Stacked-LSTM?style=flat&color=0080ff" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/muhammadhussain-2009/Stock-Price-Prediction-Using-Stacked-LSTM?style=flat&color=0080ff" alt="repo-language-count">
 
-<em>Built with the tools and technologies:</em>
+<em>Built with the tools and technologies:Python,Jupyter Notebook, Keras, TensorFlow, Matplotlib, Seaborn, Numpy, Pandas</em>
 
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
 
