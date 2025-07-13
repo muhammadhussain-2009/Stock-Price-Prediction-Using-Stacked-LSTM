@@ -123,7 +123,10 @@ This project aims to deliver precise stock price forecasts through deep learning
 
 This project requires the following dependencies:
 
-- **Programming Language:** JupyterNotebook
+- **Programming Language:** JupyterNotebook, Python
+- **Data Source**: https://www.marketwatch.com/investing/stock/goog/download-data
+- **Libraries and Dependencies Used**: Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Tensorflow, Keras
+- **Deep Learning Techniques Used**: Stacked LSTM, Fine Tuning with Keras Tuner, Calculating Evalaution Metrics (R2-Score, RMSE, MAE, MSE)
 
 ### ⚙️ Installation
 
